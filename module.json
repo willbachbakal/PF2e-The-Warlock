@@ -1,6 +1,6 @@
 {
-  "id": "",
-  "title": "",
+  "id": "the-warlock",
+  "title": "The Warlock",
   "version": "#{VERSION}#",
   "library": "false",
   "compatibility": {
@@ -20,7 +20,7 @@
       }
     }
   },
-  "description": "",
+  "description": "A witch class archetype for Pathfinder Second Edition, offering rechargeable spells!",
   "authors": [
     {
       "name": "Teridax68",
@@ -29,9 +29,9 @@
   ],
   "packs": [
     {
-      "name": "",
-      "label": "",
-      "path": "packs/",
+      "name": "the-warlock",
+      "label": "The Warlock",
+      "path": "packs/the-warlock",
       "type": "Item",
       "system": "pf2e",
       "flags": {}
